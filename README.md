@@ -3,11 +3,10 @@
 <table>
 <tr>
 <td width="100px" align="left">
-<img src="https://media.tenor.com/5rjn6JejPfIAAAAi/ahri-kiss.gif" width="90"/>
 </td>
 <td align="center">
 
-<h1 style="color:#FF69B4; margin-bottom:0;">Agatha Scoller</h1>
+<h1 style="color:#FF69B4; margin-bottom:0;">Agatha Abreu Cabral</h1>
 <sub><b style="color:#FFC0CB;">Data Science • Artificial Intelligence • Physics</b></sub>
 
 </td>
