@@ -1,64 +1,61 @@
 <div align="center">
+  <img src="https://media.tenor.com/5rjn6JejPfIAAAAi/ahri-kiss.gif" width="100" height="100" style="border-radius:50%; margin-right:10px;"/>
+</div>
 
-![Header](https://img.shields.io/badge/Agatha%20Scoller-%23FF69B4?style=for-the-badge&labelColor=000000&logoColor=white)
-  
-![Field](https://img.shields.io/badge/Data%20Science-%23FFC0CB?style=flat-square&labelColor=000000)
-![Field](https://img.shields.io/badge/Artificial%20Intelligence-%23FFC0CB?style=flat-square&labelColor=000000)
-![Field](https://img.shields.io/badge/Physics-%23FFC0CB?style=flat-square&labelColor=000000)
+<div align="center">
 
----
+![Name](https://img.shields.io/badge/Agatha%20Abreu%20Cabral-FF69B4?style=for-the-badge&labelColor=000000)
 
-<img src="https://i.gifer.com/7VE.gif" width="250px" alt="AI Animation"/>
-
----
-
-![Education](https://img.shields.io/badge/Education-%23FF69B4?style=for-the-badge&labelColor=000000)
-
-![Degree](https://img.shields.io/badge/B.Sc.%20in%20Data%20Science%20and%20AI-UniDomBosco-%23FFC0CB?style=flat&labelColor=000000)
-![Degree](https://img.shields.io/badge/B.Sc.%20in%20Physics-Uniasselvi-%23FFC0CB?style=flat&labelColor=000000)
-![Course](https://img.shields.io/badge/Technical%20Course%20in%20AI-(1,200h)%20SENAC%2FDF-%23FFC0CB?style=flat&labelColor=000000)
+![Field](https://img.shields.io/badge/Data%20Science%20|%20Artificial%20Intelligence-000000?style=for-the-badge&labelColor=FF69B4)
+![Location](https://img.shields.io/badge/Brasília%20–%20DF-FFC0CB?style=for-the-badge&labelColor=000000)
 
 ---
 
-![Projects](https://img.shields.io/badge/Projects%20&%20Achievements-%23FF69B4?style=for-the-badge&labelColor=000000)
+### 🎓 Education
 
-![NASA](https://img.shields.io/badge/NASA%20Space%20Apps%20Challenge-Global%20Nominee-%23FFC0CB?style=flat&labelColor=000000)
-![Project](https://img.shields.io/badge/Spot%20Fire%20v2.0-Satellite%20AI%20Fire%20Detection-%23FFC0CB?style=flat&labelColor=000000)
-![Recognition](https://img.shields.io/badge/Top%20Global%20Project-2024-%23FFC0CB?style=flat&labelColor=000000)
-
----
-
-![Courses](https://img.shields.io/badge/Relevant%20Courses-%23FF69B4?style=for-the-badge&labelColor=000000)
-
-![Course](https://img.shields.io/badge/Database%20Administration-SENAC%2FDF%20(200h)-%23FFC0CB?style=flat&labelColor=000000)
-![Course](https://img.shields.io/badge/Oracle%20PL%2FSQL-IFRS%20(20h)-%23FFC0CB?style=flat&labelColor=000000)
-![Course](https://img.shields.io/badge/Database%20Fundamentals-IFRS%20(20h)-%23FFC0CB?style=flat&labelColor=000000)
-![Course](https://img.shields.io/badge/Programming%20Logic%20I%20%26%20II-IFRS%20(40h)-%23FFC0CB?style=flat&labelColor=000000)
-![Course](https://img.shields.io/badge/Web%20Programming%20(Node%2C%20React%2C%20Java)-IFRS%20(500h+)-%23FFC0CB?style=flat&labelColor=000000)
-![Course](https://img.shields.io/badge/System%20Automation%20and%20Web%20Projects-IFRS%20(60h)-%23FFC0CB?style=flat&labelColor=000000)
-![Course](https://img.shields.io/badge/SCRUM%20Agile%20Project%20Management-IFRS%20(40h)-%23FFC0CB?style=flat&labelColor=000000)
-![Course](https://img.shields.io/badge/Applied%20AI%20Seminar-MAPA%20(12h)-%23FFC0CB?style=flat&labelColor=000000)
-![Course](https://img.shields.io/badge/Introduction%20to%20Robotics-SENAI%20(120h)-%23FFC0CB?style=flat&labelColor=000000)
+![Edu1](https://img.shields.io/badge/B.Sc.%20in%20Data%20Science%20and%20AI%20–%20UniDomBosco%20(in%20progress)-FF69B4?style=for-the-badge&labelColor=000000)
+![Edu2](https://img.shields.io/badge/B.Sc.%20in%20Physics%20–%20Uniasselvi-000000?style=for-the-badge&labelColor=FF69B4)
+![Edu3](https://img.shields.io/badge/Technical%20Course%20in%20AI%20(1,200h)%20–%20SENAC/DF-FFC0CB?style=for-the-badge&labelColor=000000)
 
 ---
 
-![Skills](https://img.shields.io/badge/Technical%20Skills-%23FF69B4?style=for-the-badge&labelColor=000000)
+### 🚀 Projects and Achievements
 
-![Skill](https://img.shields.io/badge/Data%20Analysis-Power%20BI%2C%20Qlik%20Sense%2C%20Excel-%23FFC0CB?style=flat&labelColor=000000)
-![Skill](https://img.shields.io/badge/Databases-SQL%2C%20Oracle%20PL%2FSQL%2C%20Modeling-%23FFC0CB?style=flat&labelColor=000000)
-![Skill](https://img.shields.io/badge/Programming-Python%2C%20Java%2C%20Node.js%2C%20JavaScript-%23FFC0CB?style=flat&labelColor=000000)
-![Skill](https://img.shields.io/badge/Visualization%20%26%20Automation-GA%2C%20PowerPoint%2C%20Automation-%23FFC0CB?style=flat&labelColor=000000)
-![Skill](https://img.shields.io/badge/Methodologies-SCRUM%2C%20Agile-%23FFC0CB?style=flat&labelColor=000000)
+![NASA](https://img.shields.io/badge/NASA%20Space%20Apps%20Challenge%20–%20Global%20Nominee-000000?style=for-the-badge&labelColor=FF69B4)
+![Project](https://img.shields.io/badge/Spot%20Fire%20v2.0:%20Satellite–based%20Fire%20Detection%20AI-FFC0CB?style=for-the-badge&labelColor=000000)
 
 ---
 
-![Languages](https://img.shields.io/badge/Languages-%23FF69B4?style=for-the-badge&labelColor=000000)
-![English](https://img.shields.io/badge/English-Intermediate-%23FFC0CB?style=flat&labelColor=000000)
-![Institution](https://img.shields.io/badge/IFP-Instituto%20de%20Forma%C3%A7%C3%A3o%20Profissional-%23FFC0CB?style=flat&labelColor=000000)
+### 📚 Relevant Courses
+
+![Course1](https://img.shields.io/badge/Database%20Administration%20–%20SENAC/DF%20(200h)-FF69B4?style=for-the-badge&labelColor=000000)
+![Course2](https://img.shields.io/badge/Oracle%20PL/SQL%20–%20IFRS%20(20h)-FFC0CB?style=for-the-badge&labelColor=000000)
+![Course3](https://img.shields.io/badge/Programming%20Logic%20I%20&%20II%20–%20IFRS%20(40h)-000000?style=for-the-badge&labelColor=FF69B4)
+![Course4](https://img.shields.io/badge/Web%20Programming%20|%20Node.js%20|%20React%20Native%20|%20Java%20|%20JS%20–%20500h+-FFC0CB?style=for-the-badge&labelColor=000000)
+![Course5](https://img.shields.io/badge/SCRUM:%20Agile%20Project%20Management%20–%20IFRS-000000?style=for-the-badge&labelColor=FF69B4)
+![Course6](https://img.shields.io/badge/Introduction%20to%20Robotics%20–%20SENAI%20(120h)-FFC0CB?style=for-the-badge&labelColor=000000)
 
 ---
 
-<img height="165em" src="https://github-readme-stats.vercel.app/api?username=AgathaScoller&show_icons=false&theme=rose_pine&hide_title=true&hide_border=true&count_private=true"/>
-<img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AgathaScoller&layout=compact&langs_count=6&theme=rose_pine&hide_border=true"/>
+### 🧠 Technical Skills
+
+![Skill1](https://img.shields.io/badge/Data%20Analysis%20–%20Power%20BI%20|%20Qlik%20Sense%20|%20Excel-FF69B4?style=for-the-badge&labelColor=000000)
+![Skill2](https://img.shields.io/badge/Databases%20–%20SQL%20|%20Oracle%20PL/SQL%20|%20Modeling-000000?style=for-the-badge&labelColor=FFC0CB)
+![Skill3](https://img.shields.io/badge/Programming%20–%20Python%20|%20Java%20|%20JavaScript%20|%20Node.js-FFC0CB?style=for-the-badge&labelColor=000000)
+![Skill4](https://img.shields.io/badge/Visualization%20&%20Automation%20–%20PowerPoint%20|%20Google%20Analytics-000000?style=for-the-badge&labelColor=FF69B4)
+![Skill5](https://img.shields.io/badge/Methodologies%20–%20SCRUM%20|%20Agile%20Development-FFC0CB?style=for-the-badge&labelColor=000000)
+
+---
+
+### 🌐 Languages
+
+![Language](https://img.shields.io/badge/English%20–%20Intermediate%20(IFP)-000000?style=for-the-badge&labelColor=FF69B4)
+
+---
+
+<div align="center">
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=AgathaScoller&show_icons=false&theme=rose_pine&hide_title=true&hide_border=true&count_private=true"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AgathaScoller&layout=compact&langs_count=6&theme=rose_pine&hide_border=true"/>
+</div>
 
 </div>
