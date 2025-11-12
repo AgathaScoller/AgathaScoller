@@ -1,7 +1,7 @@
 <h1 align="center" style="color:#e6b3cc;">Agatha Abreu Cabral</h1>
 
 <p align="center">
-Brasília – DF • <a href="mailto:cabral.a.abreu@gmail.com">cabral.a.abreu@gmail.com</a> • <a href="https://github.com/AgathaScoller">github.com/AgathaScoller</a>
+<a href="mailto:cabral.a.abreu@gmail.com">cabral.a.abreu@gmail.com</a>
 </p>
 
 ### Education
