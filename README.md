@@ -1,21 +1,11 @@
 <div align="center">
 
-<table>
-<tr>
-<td width="100px" align="left">
-</td>
-<td align="center">
-
-<h1 style="color:#FF69B4; margin-bottom:0;">Agatha Abreu Cabral</h1>
-<sub><b style="color:#FFC0CB;">Data Science • Artificial Intelligence • Physics</b></sub>
-
-</td>
-</tr>
-</table>
-
----
+<h1 style="color:#CD5C5C; margin-bottom:0;">Agatha Abreu Cabral</h1>
+<sub><b style="color:#FAEBD7;">Data Science • Artificial Intelligence • Physics</b></sub>
 
 </div>
+
+---
 
 <div align="center">
 
@@ -23,7 +13,7 @@
 <tr>
 <td valign="top" width="48%">
 
-### ![Badge](https://img.shields.io/badge/-Education-FF1493?style=flat)
+### ![Badge](https://img.shields.io/badge/-Education-CD5C5C?style=flat)
 
 | Degree | Institution |
 |:-------|:-------------|
@@ -34,7 +24,7 @@
 </td>
 <td valign="top" width="48%">
 
-### ![Badge](https://img.shields.io/badge/-Languages-FF1493?style=flat)
+### ![Badge](https://img.shields.io/badge/-Languages-CD5C5C?style=flat)
 
 | Language | Level | Institution |
 |:----------|:------|:-------------|
@@ -50,61 +40,17 @@
 <tr>
 <td valign="top" width="48%">
 
-### ![Badge](https://img.shields.io/badge/-Technical%20Skills-FF1493?style=flat)
+### ![Badge](https://img.shields.io/badge/-Technical%20Skills-CD5C5C?style=flat)
 
 | Category | Competencies |
 |:----------|:-------------|
-| **Data Analysis** | ![Badge](https://img.shields.io/badge/-Power%20BI-FF69B4?style=flat) ![Badge](https://img.shields.io/badge/-Qlik%20Sense-FFC0CB?style=flat) ![Badge](https://img.shields.io/badge/-Advanced%20Excel-FF69B4?style=flat) |
-| **Databases** | ![Badge](https://img.shields.io/badge/-SQL-FFC0CB?style=flat) ![Badge](https://img.shields.io/badge/-Oracle%20PL/SQL-FF69B4?style=flat) ![Badge](https://img.shields.io/badge/-Data%20Modeling-FFC0CB?style=flat) |
-| **Programming** | ![Badge](https://img.shields.io/badge/-Python-FF69B4?style=flat) ![Badge](https://img.shields.io/badge/-Java-FFC0CB?style=flat) ![Badge](https://img.shields.io/badge/-JavaScript-FF69B4?style=flat) ![Badge](https://img.shields.io/badge/-Node.js-FFC0CB?style=flat) |
-| **Visualization & Automation** | ![Badge](https://img.shields.io/badge/-PowerPoint-FF69B4?style=flat) ![Badge](https://img.shields.io/badge/-Google%20Analytics-FFC0CB?style=flat) ![Badge](https://img.shields.io/badge/-Report%20Automation-FF69B4?style=flat) |
-| **Methodologies** | ![Badge](https://img.shields.io/badge/-SCRUM-FFC0CB?style=flat) ![Badge](https://img.shields.io/badge/-Agile%20Development-FF69B4?style=flat) |
+| **Data Analysis** | ![Badge](https://img.shields.io/badge/-Power%20BI-CD5C5C?style=flat) ![Badge](https://img.shields.io/badge/-Qlik%20Sense-FAEBD7?style=flat) ![Badge](https://img.shields.io/badge/-Advanced%20Excel-CD5C5C?style=flat) |
+| **Databases** | ![Badge](https://img.shields.io/badge/-SQL-FAEBD7?style=flat) ![Badge](https://img.shields.io/badge/-Oracle%20PL/SQL-CD5C5C?style=flat) ![Badge](https://img.shields.io/badge/-Data%20Modeling-FAEBD7?style=flat) |
+| **Programming** | ![Badge](https://img.shields.io/badge/-Python-CD5C5C?style=flat) ![Badge](https://img.shields.io/badge/-Java-FAEBD7?style=flat) ![Badge](https://img.shields.io/badge/-JavaScript-CD5C5C?style=flat) ![Badge](https://img.shields.io/badge/-Node.js-FAEBD7?style=flat) |
+| **Visualization & Automation** | ![Badge](https://img.shields.io/badge/-PowerPoint-CD5C5C?style=flat) ![Badge](https://img.shields.io/badge/-Google%20Analytics-FAEBD7?style=flat) ![Badge](https://img.shields.io/badge/-Report%20Automation-CD5C5C?style=flat) |
+| **Methodologies** | ![Badge](https://img.shields.io/badge/-SCRUM-FAEBD7?style=flat) ![Badge](https://img.shields.io/badge/-Agile%20Development-CD5C5C?style=flat) |
 
 </td>
 <td valign="top" width="48%">
 
-### ![Badge](https://img.shields.io/badge/-Relevant%20Courses-FF1493?style=flat)
-
-| Course | Institution | Hours |
-|:--------|:-------------|:------|
-| Database Administration | SENAC/DF | 200h |
-| Oracle PL/SQL | IFRS | 20h |
-| Database Fundamentals | IFRS | 20h |
-| Programming Logic I & II | IFRS | 40h |
-| Web Programming / Node.js / React Native / Java / JavaScript | IFRS | 500h+ |
-| System Automation and Web Project Development | IFRS | 60h |
-| SCRUM: Agile Project Management | IFRS | 40h |
-| Applied Artificial Intelligence Seminar | MAPA | 12h |
-| Introduction to Robotics | SENAI | 120h |
-
-</td>
-</tr>
-</table>
-
----
-
-<table style="width:100%; border:none;">
-<tr>
-<td valign="top" width="50%">
-
-### ![Badge](https://img.shields.io/badge/-Projects%20&%20Achievements-FF1493?style=flat)
-
-**NASA Space Apps Challenge – Global Nominee (BMGI Saquarema Team)**  
-*Project “Spot Fire v2.0”*  
-Development of a satellite-based fire detection solution integrating geospatial data analysis and artificial intelligence.  
-Selected as one of the **top global projects** in the NASA Space Apps Challenge.  
-[View Project](https://2019.spaceappschallenge.org/challenges/living-our-world/spot-fire-v20/teams/bmgi-saquarema/project)
-
-</td>
-<td valign="top" width="50%">
-
-<img height="165em" src="https://github-readme-stats.vercel.app/api?username=AgathaScoller&show_icons=false&theme=react&hide_title=true&hide_border=true&count_private=true&bg_color=F08080"/>
-<img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AgathaScoller&layout=compact&langs_count=6&theme=react&hide_border=true&bg_color=FFB6C1"/>
-
-</td>
-</tr>
-</table>
-
----
-
-</div>
+### ![Badge](https://img.
