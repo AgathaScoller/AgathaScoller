@@ -1,4 +1,4 @@
-<h1 align="center" style="color:#e6b3cc;">Agatha Abreu Cabral</h1>
+<h1 align="center" style="color:#e6b3cc;">Scoller</h1>
 
 <p align="center">
 <a href="mailto:cabral.a.abreu@gmail.com">cabral.a.abreu@gmail.com</a>
