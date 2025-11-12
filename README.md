@@ -84,18 +84,27 @@
 
 ---
 
+<table style="width:100%; border:none;">
+<tr>
+<td valign="top" width="50%">
+
 ### **Projects & Achievements**
 
 **NASA Space Apps Challenge – Global Nominee (BMGI Saquarema Team)**  
 *Project “Spot Fire v2.0”*  
 Development of a satellite-based fire detection solution integrating geospatial data analysis and artificial intelligence.  
-Selected as one of the **top global projects** in the NASA Space Apps Challenge.
-https://2019.spaceappschallenge.org/challenges/living-our-world/spot-fire-v20/teams/bmgi-saquarema/project
+Selected as one of the **top global projects** in the NASA Space Apps Challenge.  
+[View Project](https://2019.spaceappschallenge.org/challenges/living-our-world/spot-fire-v20/teams/bmgi-saquarema/project)
 
----
+</td>
+<td valign="top" width="50%">
 
 <img height="165em" src="https://github-readme-stats.vercel.app/api?username=AgathaScoller&show_icons=false&theme=rose_pine&hide_title=true&hide_border=true&count_private=true"/>
 <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AgathaScoller&layout=compact&langs_count=6&theme=rose_pine&hide_border=true"/>
+
+</td>
+</tr>
+</table>
 
 ---
 
