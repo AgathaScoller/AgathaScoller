@@ -108,8 +108,4 @@ Selected as one of the **top global projects** in the NASA Space Apps Challenge.
 
 ---
 
-<div align="center">
-
-![Footer](https://capsule-render.vercel.app/api?type=waving&color=FDD6E3&height=100&section=footer)
-
 </div>
