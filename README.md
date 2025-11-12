@@ -1,60 +1,60 @@
 <div align="center">
 
-# **Agatha Scoller**
-
-<sub>Data Science • Artificial Intelligence • Physics</sub>
-
----
-
-![Education](https://img.shields.io/badge/Education-%23302D41?style=for-the-badge&labelColor=2A2734&color=E0DEF4)
+![Header](https://img.shields.io/badge/Agatha%20Scoller-%23FF69B4?style=for-the-badge&labelColor=000000&logoColor=white)
   
-**B.Sc. in Data Science and Artificial Intelligence** – UniDomBosco *(in progress)*  
-**B.Sc. in Physics** – Uniasselvi  
-**Technical Course in Artificial Intelligence (1,200h)** – SENAC/DF  
+![Field](https://img.shields.io/badge/Data%20Science-%23FFC0CB?style=flat-square&labelColor=000000)
+![Field](https://img.shields.io/badge/Artificial%20Intelligence-%23FFC0CB?style=flat-square&labelColor=000000)
+![Field](https://img.shields.io/badge/Physics-%23FFC0CB?style=flat-square&labelColor=000000)
 
 ---
 
-![Projects & Achievements](https://img.shields.io/badge/Projects%20&%20Achievements-%23302D41?style=for-the-badge&labelColor=2A2734&color=E0DEF4)
-
-**NASA Space Apps Challenge – Global Nominee (BMGI Saquarema Team)**  
-*Project “Spot Fire v2.0”*  
-Development of a satellite-based fire detection solution integrating geospatial data analysis and artificial intelligence.  
-Selected as one of the **top global projects** in the NASA Space Apps Challenge.
+<img src="https://i.gifer.com/7VE.gif" width="250px" alt="AI Animation"/>
 
 ---
 
-![Relevant Courses](https://img.shields.io/badge/Relevant%20Courses-%23302D41?style=for-the-badge&labelColor=2A2734&color=E0DEF4)
+![Education](https://img.shields.io/badge/Education-%23FF69B4?style=for-the-badge&labelColor=000000)
 
-| Course | Institution | Year | Hours |
-|--------|--------------|------|-------|
-| Database Administration | SENAC/DF | 2024 | 200h |
-| Oracle PL/SQL | IFRS | 2025 | 20h |
-| Database Fundamentals | IFRS | 2025 | 20h |
-| Programming Logic I & II | IFRS | 2025 | 40h |
-| Web Programming / Node.js / React Native / Java / JavaScript | IFRS | 2025 | 500h+ |
-| System Automation and Web Project Development | IFRS | 2025 | 60h |
-| SCRUM: Agile Project Management | IFRS | 2025 | 40h |
-| Applied Artificial Intelligence Seminar | MAPA | 2025 | 12h |
-| Introduction to Robotics | SENAI | 2022 | 120h |
+![Degree](https://img.shields.io/badge/B.Sc.%20in%20Data%20Science%20and%20AI-UniDomBosco-%23FFC0CB?style=flat&labelColor=000000)
+![Degree](https://img.shields.io/badge/B.Sc.%20in%20Physics-Uniasselvi-%23FFC0CB?style=flat&labelColor=000000)
+![Course](https://img.shields.io/badge/Technical%20Course%20in%20AI-(1,200h)%20SENAC%2FDF-%23FFC0CB?style=flat&labelColor=000000)
 
 ---
 
-![Technical Skills](https://img.shields.io/badge/Technical%20Skills-%23302D41?style=for-the-badge&labelColor=2A2734&color=E0DEF4)
+![Projects](https://img.shields.io/badge/Projects%20&%20Achievements-%23FF69B4?style=for-the-badge&labelColor=000000)
 
-| Category | Competencies |
-|-----------|---------------|
-| **Data Analysis** | Power BI, Qlik Sense, Advanced Excel |
-| **Databases** | SQL, Oracle PL/SQL, Data Modeling |
-| **Programming** | Python (Exploratory Analysis), Java, JavaScript, Node.js |
-| **Visualization & Automation** | PowerPoint, Google Analytics, Report Automation |
-| **Methodologies** | SCRUM, Agile Development |
+![NASA](https://img.shields.io/badge/NASA%20Space%20Apps%20Challenge-Global%20Nominee-%23FFC0CB?style=flat&labelColor=000000)
+![Project](https://img.shields.io/badge/Spot%20Fire%20v2.0-Satellite%20AI%20Fire%20Detection-%23FFC0CB?style=flat&labelColor=000000)
+![Recognition](https://img.shields.io/badge/Top%20Global%20Project-2024-%23FFC0CB?style=flat&labelColor=000000)
 
 ---
 
-![Languages](https://img.shields.io/badge/Languages-%23302D41?style=for-the-badge&labelColor=2A2734&color=E0DEF4)
+![Courses](https://img.shields.io/badge/Relevant%20Courses-%23FF69B4?style=for-the-badge&labelColor=000000)
 
-**English – Intermediate**  
-*(Instituto de Formação Profissional – IFP)*  
+![Course](https://img.shields.io/badge/Database%20Administration-SENAC%2FDF%20(200h)-%23FFC0CB?style=flat&labelColor=000000)
+![Course](https://img.shields.io/badge/Oracle%20PL%2FSQL-IFRS%20(20h)-%23FFC0CB?style=flat&labelColor=000000)
+![Course](https://img.shields.io/badge/Database%20Fundamentals-IFRS%20(20h)-%23FFC0CB?style=flat&labelColor=000000)
+![Course](https://img.shields.io/badge/Programming%20Logic%20I%20%26%20II-IFRS%20(40h)-%23FFC0CB?style=flat&labelColor=000000)
+![Course](https://img.shields.io/badge/Web%20Programming%20(Node%2C%20React%2C%20Java)-IFRS%20(500h+)-%23FFC0CB?style=flat&labelColor=000000)
+![Course](https://img.shields.io/badge/System%20Automation%20and%20Web%20Projects-IFRS%20(60h)-%23FFC0CB?style=flat&labelColor=000000)
+![Course](https://img.shields.io/badge/SCRUM%20Agile%20Project%20Management-IFRS%20(40h)-%23FFC0CB?style=flat&labelColor=000000)
+![Course](https://img.shields.io/badge/Applied%20AI%20Seminar-MAPA%20(12h)-%23FFC0CB?style=flat&labelColor=000000)
+![Course](https://img.shields.io/badge/Introduction%20to%20Robotics-SENAI%20(120h)-%23FFC0CB?style=flat&labelColor=000000)
+
+---
+
+![Skills](https://img.shields.io/badge/Technical%20Skills-%23FF69B4?style=for-the-badge&labelColor=000000)
+
+![Skill](https://img.shields.io/badge/Data%20Analysis-Power%20BI%2C%20Qlik%20Sense%2C%20Excel-%23FFC0CB?style=flat&labelColor=000000)
+![Skill](https://img.shields.io/badge/Databases-SQL%2C%20Oracle%20PL%2FSQL%2C%20Modeling-%23FFC0CB?style=flat&labelColor=000000)
+![Skill](https://img.shields.io/badge/Programming-Python%2C%20Java%2C%20Node.js%2C%20JavaScript-%23FFC0CB?style=flat&labelColor=000000)
+![Skill](https://img.shields.io/badge/Visualization%20%26%20Automation-GA%2C%20PowerPoint%2C%20Automation-%23FFC0CB?style=flat&labelColor=000000)
+![Skill](https://img.shields.io/badge/Methodologies-SCRUM%2C%20Agile-%23FFC0CB?style=flat&labelColor=000000)
+
+---
+
+![Languages](https://img.shields.io/badge/Languages-%23FF69B4?style=for-the-badge&labelColor=000000)
+![English](https://img.shields.io/badge/English-Intermediate-%23FFC0CB?style=flat&labelColor=000000)
+![Institution](https://img.shields.io/badge/IFP-Instituto%20de%20Forma%C3%A7%C3%A3o%20Profissional-%23FFC0CB?style=flat&labelColor=000000)
 
 ---
 
