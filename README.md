@@ -39,7 +39,7 @@
 
 | Language | Level | Institution |
 |:----------|:------|:-------------|
-| English | Intermediate | Instituto de Formação Profissional (IFP) |
+| English | Intermediate | IFP |
 
 </td>
 </tr>
@@ -90,6 +90,7 @@
 *Project “Spot Fire v2.0”*  
 Development of a satellite-based fire detection solution integrating geospatial data analysis and artificial intelligence.  
 Selected as one of the **top global projects** in the NASA Space Apps Challenge.
+https://2019.spaceappschallenge.org/challenges/living-our-world/spot-fire-v20/teams/bmgi-saquarema/project
 
 ---
 
