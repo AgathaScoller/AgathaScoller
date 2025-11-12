@@ -24,7 +24,7 @@
 <tr>
 <td valign="top" width="48%">
 
-### **Education**
+### ![Badge](https://img.shields.io/badge/-Education-FF1493?style=flat)
 
 | Degree | Institution |
 |:-------|:-------------|
@@ -35,7 +35,7 @@
 </td>
 <td valign="top" width="48%">
 
-### **Languages**
+### ![Badge](https://img.shields.io/badge/-Languages-FF1493?style=flat)
 
 | Language | Level | Institution |
 |:----------|:------|:-------------|
@@ -51,7 +51,7 @@
 <tr>
 <td valign="top" width="48%">
 
-### **Technical Skills**
+### ![Badge](https://img.shields.io/badge/-Technical%20Skills-FF1493?style=flat)
 
 | Category | Competencies |
 |:----------|:-------------|
@@ -64,19 +64,19 @@
 </td>
 <td valign="top" width="48%">
 
-### **Relevant Courses**
+### ![Badge](https://img.shields.io/badge/-Relevant%20Courses-FF1493?style=flat)
 
-| Course | Institution | Year | Hours |
-|:--------|:-------------|:-----|:------|
-| Database Administration | SENAC/DF | 2024 | 200h |
-| Oracle PL/SQL | IFRS | 2025 | 20h |
-| Database Fundamentals | IFRS | 2025 | 20h |
-| Programming Logic I & II | IFRS | 2025 | 40h |
-| Web Programming / Node.js / React Native / Java / JavaScript | IFRS | 2025 | 500h+ |
-| System Automation and Web Project Development | IFRS | 2025 | 60h |
-| SCRUM: Agile Project Management | IFRS | 2025 | 40h |
-| Applied Artificial Intelligence Seminar | MAPA | 2025 | 12h |
-| Introduction to Robotics | SENAI | 2022 | 120h |
+| Course | Institution | Hours |
+|:--------|:-------------|:------|
+| Database Administration | SENAC/DF | 200h |
+| Oracle PL/SQL | IFRS | 20h |
+| Database Fundamentals | IFRS | 20h |
+| Programming Logic I & II | IFRS | 40h |
+| Web Programming / Node.js / React Native / Java / JavaScript | IFRS | 500h+ |
+| System Automation and Web Project Development | IFRS | 60h |
+| SCRUM: Agile Project Management | IFRS | 40h |
+| Applied Artificial Intelligence Seminar | MAPA | 12h |
+| Introduction to Robotics | SENAI | 120h |
 
 </td>
 </tr>
@@ -88,7 +88,7 @@
 <tr>
 <td valign="top" width="50%">
 
-### **Projects & Achievements**
+### ![Badge](https://img.shields.io/badge/-Projects%20&%20Achievements-FF1493?style=flat)
 
 **NASA Space Apps Challenge – Global Nominee (BMGI Saquarema Team)**  
 *Project “Spot Fire v2.0”*  
@@ -99,8 +99,8 @@ Selected as one of the **top global projects** in the NASA Space Apps Challenge.
 </td>
 <td valign="top" width="50%">
 
-<img height="165em" src="https://github-readme-stats.vercel.app/api?username=AgathaScoller&show_icons=false&theme=rose_pine&hide_title=true&hide_border=true&count_private=true"/>
-<img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AgathaScoller&layout=compact&langs_count=6&theme=rose_pine&hide_border=true"/>
+<img height="165em" src="https://github-readme-stats.vercel.app/api?username=AgathaScoller&show_icons=false&theme=react&hide_title=true&hide_border=true&count_private=true&bg_color=F08080"/>
+<img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AgathaScoller&layout=compact&langs_count=6&theme=react&hide_border=true&bg_color=FFB6C1"/>
 
 </td>
 </tr>
@@ -110,6 +110,6 @@ Selected as one of the **top global projects** in the NASA Space Apps Challenge.
 
 <div align="center">
 
-![Footer](https://capsule-render.vercel.app/api?type=waving&color=FF69B4&height=100&section=footer)
+![Footer](https://capsule-render.vercel.app/api?type=waving&color=FDD6E3&height=100&section=footer)
 
 </div>
