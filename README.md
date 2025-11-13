@@ -84,8 +84,8 @@ Selected as one of the **top global projects** in the NASA Space Apps Challenge.
 [View Project](https://2019.spaceappschallenge.org/challenges/living-our-world/spot-fire-v20/teams/bmgi-saquarema/project)
 
 <td valign="top" width="50%">
-    <img height="165em" src="https://github-readme-stats.vercel.app/api?username=AgathaScoller&show_icons=false&hide_title=true&hide_border=true&count_private=true&bg_color=E6E6FA&title_color=CD5C5C&text_color=FAEBD7&icon_color=FAEBD7"/>
-    <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AgathaScoller&layout=compact&langs_count=6&hide_border=true&bg_color=E6E6FA&title_color=CD5C5C&text_color=FAEBD7&icon_color=FAEBD7"/>
+    <img height="165em" src="https://github-readme-stats.vercel.app/api?username=AgathaScoller&show_icons=false&hide_title=true&hide_border=true&count_private=true&bg_color=E6E6FA&title_color=CD5C5C&text_color=000000&icon_color=CD5C5C"/>
+    <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AgathaScoller&layout=compact&langs_count=6&hide_border=true&bg_color=E6E6FA&title_color=CD5C5C&text_color=000000&icon_color=CD5C5C"/>
 </td>
 </tr>
 </table>
