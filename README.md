@@ -1,7 +1,7 @@
 <td valign="top" width="50%">
 
-<img height="165em" src="https://github-readme-stats.vercel.app/api?username=AgathaScoller&show_icons=false&hide_title=true&hide_border=true&count_private=true&bg_color=E6E6FA&title_color=CD5C5C&text_color=FAEBD7&icon_color=FAEBD7"/>
-<img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AgathaScoller&layout=compact&langs_count=6&hide_border=true&bg_color=E6E6FA&title_color=CD5C5C&text_color=FAEBD7&icon_color=FAEBD7"/>
+<img height="165em" src="https://github-readme-stats.vercel.app/api?username=AgathaScoller&show_icons=false&theme=dark&hide_title=true&hide_border=true&count_private=true&bg_color=E6E6FA"/>
+<img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AgathaScoller&layout=compact&langs_count=6&theme=dark&hide_border=true&bg_color=E6E6FA"/>
 
 </td>
 </tr>
@@ -53,7 +53,7 @@
 |:----------|:-------------|
 | **Data Analysis** | ![Badge](https://img.shields.io/badge/-Power%20BI-CD5C5C?style=flat) ![Badge](https://img.shields.io/badge/-Qlik%20Sense-FAEBD7?style=flat) ![Badge](https://img.shields.io/badge/-Advanced%20Excel-CD5C5C?style=flat) |
 | **Databases** | ![Badge](https://img.shields.io/badge/-SQL-FAEBD7?style=flat) ![Badge](https://img.shields.io/badge/-Oracle%20PL/SQL-CD5C5C?style=flat) ![Badge](https://img.shields.io/badge/-Data%20Modeling-FAEBD7?style=flat) |
-| **Programming** | ![Badge](https://img.shields.io/badge/-Python-CD5C5C?style=flat) ![Badge](https://img.shields.io/badge/-Java-FAEBD7?style=flat) ![Badge](https://shields.io/badge/-JavaScript-CD5C5C?style=flat) ![Badge](https://img.shields.io/badge/-Node.js-FAEBD7?style=flat) |
+| **Programming** | ![Badge](https://img.shields.io/badge/-Python-CD5C5C?style=flat) ![Badge](https://img.shields.io/badge/-Java-FAEBD7?style=flat) ![Badge](https://img.shields.io/badge/-JavaScript-CD5C5C?style=flat) ![Badge](https://img.shields.io/badge/-Node.js-FAEBD7?style=flat) |
 | **Visualization & Automation** | ![Badge](https://img.shields.io/badge/-PowerPoint-CD5C5C?style=flat) ![Badge](https://img.shields.io/badge/-Google%20Analytics-FAEBD7?style=flat) ![Badge](https://img.shields.io/badge/-Report%20Automation-CD5C5C?style=flat) |
 | **Methodologies** | ![Badge](https://img.shields.io/badge/-SCRUM-FAEBD7?style=flat) ![Badge](https://img.shields.io/badge/-Agile%20Development-CD5C5C?style=flat) |
 
@@ -93,8 +93,8 @@ Selected as one of the **top global projects** in the NASA Space Apps Challenge.
 </td>
 <td valign="top" width="50%">
 
-<img height="165em" src="https://github-readme-stats.vercel.app/api?username=AgathaScoller&show_icons=false&hide_title=true&hide_border=true&count_private=true&bg_color=E6E6FA&title_color=CD5C5C&text_color=FAEBD7&icon_color=FAEBD7"/>
-<img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AgathaScoller&layout=compact&langs_count=6&hide_border=true&bg_color=E6E6FA&title_color=CD5C5C&text_color=FAEBD7&icon_color=FAEBD7"/>
+<img height="165em" src="https://github-readme-stats.vercel.app/api?username=AgathaScoller&show_icons=false&theme=dark&hide_title=true&hide_border=true&count_private=true&bg_color=E6E6FA"/>
+<img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AgathaScoller&layout=compact&langs_count=6&theme=dark&hide_border=true&bg_color=E6E6FA"/>
 
 </td>
 </tr>
