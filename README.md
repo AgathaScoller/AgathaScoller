@@ -1,3 +1,5 @@
+<div align="center">
+
 <h1 style="color:#CD5C5C; margin-bottom:0;">Agatha Abreu Cabral</h1>
 <sub><b style="color:#FAEBD7;">Data Science • Artificial Intelligence • Physics</b></sub>
 
@@ -77,7 +79,7 @@
 
 ### ![Badge](https://img.shields.io/badge/-Projects%20&%20Achievements-CD5C5C?style=flat)
 
-**NASA Space Apps Challenge – Global Nominee (BMGI Saquarema Team)** *Project “Spot Fire v2.0”* Development of a satellite-based fire detection solution integrating geospatial data analysis and artificial intelligence.  
+**NASA Space Apps Challenge – Global Nominee (BMGI Saquarema Team)** *Project “Spot Fire v2.0”* Development of a satellite-based fire detection solution integrating geospatial data analysis e artificial intelligence.  
 Selected as one of the **top global projects** in the NASA Space Apps Challenge.  
 [View Project](https://2019.spaceappschallenge.org/challenges/living-our-world/spot-fire-v20/teams/bmgi-saquarema/project)
 
