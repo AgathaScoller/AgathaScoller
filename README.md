@@ -51,7 +51,7 @@
 
 | Course | Institution | Hours |
 |:----------|:-------------|:--------|
-| Database Administration | SENAC | 200h |
+| Database Administration | SENAC/DF | 200h |
 | Oracle PL/SQL | IFRS | 20h |
 | Database Fundamentals | IFRS | 20h |
 | Programming Logic I & II | IFRS | 40h |
