@@ -17,6 +17,8 @@
 | **B.Sc. in Physics** | Uniasselvi |
 | **Technical Course in Artificial Intelligence (1,200h)** | SENAC/DF |
 
+</div>
+
 ---
 
 <table style="width:100%; border:none;">
@@ -49,7 +51,7 @@
 
 | Course | Institution | Hours |
 |:----------|:-------------|:--------|
-| Database Administration | SENAC/DF | 200h |
+| Database Administration | SENAC | 200h |
 | Oracle PL/SQL | IFRS | 20h |
 | Database Fundamentals | IFRS | 20h |
 | Programming Logic I & II | IFRS | 40h |
@@ -58,7 +60,7 @@
 | SCRUM: Agile Project Management | IFRS | 40h |
 | Applied Artificial Intelligence Seminar | MAPA | 12h |
 | Introduction to Robotics | SENAI | 120h |
-| **Full-Stack Programming** | SENAI | **670h** |
+| **Full-Stack Programming** | **SENAI** | **670h** |
 
 </td>
 
@@ -69,6 +71,7 @@
 
 <table style="width:100%; border:none;">
 <tr>
+
 <td valign="top" width="50%">
 
 ### ![Badge](https://img.shields.io/badge/-Projects%20&%20Achievements-CD5C5C?style=flat)
@@ -85,6 +88,7 @@ Selected among the **top global projects** in the NASA Space Apps Challenge.
 <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AgathaScoller&layout=compact&langs_count=6&hide_border=true&bg_color=E6E6FA&title_color=CD5C5C&text_color=000000&icon_color=CD5C5C"/>
 
 </td>
+
 </tr>
 </table>
 
