@@ -15,7 +15,7 @@
 |:-------|:-------------|
 | **B.Sc. in Data Science and Artificial Intelligence** *(in progress)* | UniDomBosco |
 | **B.Sc. in Physics** | Uniasselvi |
-| **Technical Course in Artificial Intelligence (1,200h)** | SENAC/DF |
+| **Technical Course in Artificial Intelligence** | SENAC |
 
 </div>
 
@@ -37,6 +37,8 @@
 | **Visualization & Automation** | ![Badge](https://img.shields.io/badge/-PowerPoint-CD5C5C?style=flat) ![Badge](https://img.shields.io/badge/-Google%20Analytics-FAEBD7?style=flat) ![Badge](https://img.shields.io/badge/-Report%20Automation-CD5C5C?style=flat) |
 | **Methodologies** | ![Badge](https://img.shields.io/badge/-SCRUM-FAEBD7?style=flat) ![Badge](https://img.shields.io/badge/-Agile%20Development-CD5C5C?style=flat) |
 | **Communication** | ![Badge](https://img.shields.io/badge/-English-CD5C5C?style=flat) |
+| **Geospatial & Remote Sensing** | ![Badge](https://img.shields.io/badge/-Remote%20Sensing-FAEBD7?style=flat) ![Badge](https://img.shields.io/badge/-Satellite%20Analysis-CD5C5C?style=flat) |
+| **GIS Tools** | ![Badge](https://img.shields.io/badge/-QGIS-CD5C5C?style=flat) ![Badge](https://img.shields.io/badge/-Google%20Earth-FAEBD7?style=flat) ![Badge](https://img.shields.io/badge/-MyMaps-CD5C5C?style=flat) ![Badge](https://img.shields.io/badge/-Surface%20Wave-FAEBD7?style=flat) ![Badge](https://img.shields.io/badge/-Poltrefa-CD5C5C?style=flat) ![Badge](https://img.shields.io/badge/-GeoPlot-FAEBD7?style=flat) ![Badge](https://img.shields.io/badge/-WaveEQ-CD5C5C?style=flat) ![Badge](https://img.shields.io/badge/-Pinckwin-FAEBD7?style=flat) |
 
 </td>
 
@@ -47,7 +49,7 @@
 
 | Course | Institution | Hours |
 |:----------|:-------------|:--------|
-| Database Administration | SENAC/DF | 200h |
+| Database Administration | SENAC | 200h |
 | Oracle PL/SQL | IFRS | 20h |
 | Database Fundamentals | IFRS | 20h |
 | Programming Logic I & II | IFRS | 40h |
