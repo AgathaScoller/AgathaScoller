@@ -11,8 +11,34 @@
 
 <table style="width:100%; border:none;">
 <tr>
+<td valign="top" width="48%">
 
-<!-- LEFT SIDE -->
+### ![Badge](https://img.shields.io/badge/-Education-CD5C5C?style=flat)
+
+| Degree | Institution |
+|:-------|:-------------|
+| **B.Sc. in Data Science and Artificial Intelligence** *(in progress)* | UniDomBosco |
+| **B.Sc. in Physics** | Uniasselvi |
+| **Technical Course in Artificial Intelligence (1,200h)** | SENAC/DF |
+
+</td>
+<td valign="top" width="48%">
+
+### ![Badge](https://img.shields.io/badge/-Languages-CD5C5C?style=flat)
+
+| Language | Level | Institution |
+|:----------|:------|:-------------|
+| English | Intermediate | IFP |
+
+</td>
+</tr>
+</table>
+
+---
+
+<table style="width:100%; border:none;">
+<tr>
+
 <td valign="top" width="48%">
 
 ### ![Badge](https://img.shields.io/badge/-Technical%20Skills-CD5C5C?style=flat)
@@ -27,17 +53,8 @@
 | **Visualization & Automation** | ![Badge](https://img.shields.io/badge/-PowerPoint-CD5C5C?style=flat) ![Badge](https://img.shields.io/badge/-Google%20Analytics-FAEBD7?style=flat) ![Badge](https://img.shields.io/badge/-Report%20Automation-CD5C5C?style=flat) |
 | **Methodologies** | ![Badge](https://img.shields.io/badge/-SCRUM-FAEBD7?style=flat) ![Badge](https://img.shields.io/badge/-Agile%20Development-CD5C5C?style=flat) |
 
----
-
-### ![Badge](https://img.shields.io/badge/-Languages-CD5C5C?style=flat)
-
-| Language | Level | Institution |
-|:----------|:------|:-------------|
-| English | Intermediate | IFP |
-
 </td>
 
-<!-- RIGHT SIDE -->
 <td valign="top" width="48%">
 
 ### ![Badge](https://img.shields.io/badge/-Relevant%20Courses-CD5C5C?style=flat)
@@ -66,14 +83,6 @@
 <tr>
 <td valign="top" width="50%">
 
-### ![Badge](https://img.shields.io/badge/-Education-CD5C5C?style=flat)
-
-| Degree | Institution |
-|:-------|:-------------|
-| **B.Sc. in Data Science and Artificial Intelligence** *(in progress)* | UniDomBosco |
-| **B.Sc. in Physics** | Uniasselvi |
-| **Technical Course in Artificial Intelligence (1,200h)** | SENAC/DF |
-
 ### ![Badge](https://img.shields.io/badge/-Projects%20&%20Achievements-CD5C5C?style=flat)
 
 **NASA Space Apps Challenge – Global Nominee (BMGI Saquarema Team)**  
@@ -86,9 +95,6 @@ Selected among the **top global projects** in the NASA Space Apps Challenge.
 <td valign="top" width="50%">
 
 <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AgathaScoller&layout=compact&langs_count=6&hide_border=true&bg_color=E6E6FA&title_color=CD5C5C&text_color=000000&icon_color=CD5C5C"/>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=AgathaScoller&hide_border=true&bg_color=E6E6FA&color=CD5C5C&line=CD5C5C&point=000000" />
-
 
 </td>
 </tr>
