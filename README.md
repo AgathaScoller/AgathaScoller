@@ -15,13 +15,12 @@
 |:-------|:-------------|
 | **B.Sc. in Data Science and Artificial Intelligence** *(in progress)* | UniDomBosco |
 | **B.Sc. in Physics** | Uniasselvi |
-| **Technical Course in Artificial Intelligence** | SENAC/DF |
+| **Technical Course in Artificial Intelligence (1,200h)** | SENAC/DF |
 
 </div>
 
 ---
 
-<!-- MAIN TWO-COLUMN GRID -->
 <table style="width:100%; border:none; border-spacing:20px 0;">
 
 <tr>
@@ -34,15 +33,10 @@
 | **Data Analysis** | ![Badge](https://img.shields.io/badge/-Power%20BI-CD5C5C?style=flat) ![Badge](https://img.shields.io/badge/-Qlik%20Sense-FAEBD7?style=flat) ![Badge](https://img.shields.io/badge/-Advanced%20Excel-CD5C5C?style=flat) ![Badge](https://img.shields.io/badge/-Pandas-FAEBD7?style=flat) |
 | **Machine Learning & AI** | ![Badge](https://img.shields.io/badge/-Scikit--Learn-CD5C5C?style=flat) ![Badge](https://img.shields.io/badge/-TensorFlow-FAEBD7?style=flat) ![Badge](https://img.shields.io/badge/-NLP-CD5C5C?style=flat) ![Badge](https://img.shields.io/badge/-Computer%20Vision-FAEBD7?style=flat) |
 | **Databases** | ![Badge](https://img.shields.io/badge/-SQL-FAEBD7?style=flat) ![Badge](https://img.shields.io/badge/-Oracle%20PL/SQL-CD5C5C?style=flat) ![Badge](https://img.shields.io/badge/-Data%20Modeling-FAEBD7?style=flat) ![Badge](https://img.shields.io/badge/-PostgreSQL-CD5C5C?style=flat) |
-| **Programming** | ![Badge](https://img.shields.io/badge/-Python-CD5C5C?style=flat) ![Badge](https://img.shields.io/badge/-Java-FAEBD7?style=flat) ![Badge](https://img.shields.io/badge/-JavaScript-CD5C5C?style=flat) ![Badge](https://img.shields.io/badge/-Node.js-FAEBD7?style=flat) ![Badge](https://img.shields.io/badge/-C-CD5C5C?style=flat) |
+| **Programming** | ![Badge](https://img.shields.io/badge/-Python-CD5C5C?style=flat) ![Badge](https://img.shields.io/badge/-Java-FAEBD7?style=flat) ![Badge](https://img.shields.io/badge/-JavaScript-CD5C5C?style=flat) ![Badge](https://img.shields.io/badge/-Node.js-FAEBD7?style=flat) ![Badge](https://img.shields.io/badge/-C-CD5C5C?style=flat) ![Badge](https://img.shields.io/badge/-COBOL-FAEBD7?style=flat) |
 | **Visualization & Automation** | ![Badge](https://img.shields.io/badge/-PowerPoint-CD5C5C?style=flat) ![Badge](https://img.shields.io/badge/-Google%20Analytics-FAEBD7?style=flat) ![Badge](https://img.shields.io/badge/-Report%20Automation-CD5C5C?style=flat) |
 | **Methodologies** | ![Badge](https://img.shields.io/badge/-SCRUM-FAEBD7?style=flat) ![Badge](https://img.shields.io/badge/-Agile%20Development-CD5C5C?style=flat) |
-
-### ![Badge](https://img.shields.io/badge/-Languages-CD5C5C?style=flat)
-
-| Language | Level | Institution |
-|:----------|:------|:-------------|
-| English | Intermediate | IFP |
+| **Communication** | ![Badge](https://img.shields.io/badge/-English-CD5C5C?style=flat) |
 
 </td>
 
@@ -71,7 +65,6 @@
 
 ---
 
-<!-- PROJECTS + LANGUAGES (Balanced Row) -->
 <table style="width:100%; border:none; border-spacing:20px 0;">
 
 <tr>
